@@ -78,6 +78,5 @@ Write a query to create a stored procedure to get the details of all passengers 
 Write a query to create a stored procedure that groups the distance travelled by each flight into three categories. The categories are, short distance travel (SDT) for >=0 AND <= 2000 miles, intermediate distance travel (IDT) for >2000 AND <=6500, and long-distance travel (LDT) for >6500.
 Write a query to extract ticket purchase date, customer ID, class ID and specify if the complimentary services are provided for the specific class using a stored function in stored procedure on the ticket_details table.
 Condition:
-
 If the class is Business and Economy Plus, then complimentary services are given as Yes, else it is No
 Write a query to extract the first record of the customer whose last name ends with Scott using a cursor from the customer table.
